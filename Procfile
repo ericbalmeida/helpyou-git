@@ -1,0 +1,1 @@
+web: gunicorn tw_clientes.wsgiheroku git:remote -a django-treinaweb
